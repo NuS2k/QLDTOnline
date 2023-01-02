@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\bin\Debug\QLDaoTao.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\bin\Debug\QLDaoTao.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\QLDaoTao.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\QLDaoTao.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\QLDaoTao.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\QLDaoTao.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\QLDaoTao.GiaoDienChinh.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\QLDaoTao.Auth.FormDangNhap.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\QLDaoTao.Auth.FormDangKi.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\QLDaoTao\QLDaoTao\obj\Debug\QLDaoTao.Auth.FormCapNhatMatKhau.resources
